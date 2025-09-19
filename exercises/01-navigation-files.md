@@ -1,9 +1,3 @@
----
-
-# 📂 Exercises
-
-### **`exercises/01-navigation-files.md`**
-```markdown
 # Exercise 01: Navigation & Files
 
 ## Goal
