@@ -42,6 +42,6 @@ df -h
 
 Verification
 
-Confirm the process is killed ```(ps aux | grep sleep should return nothing).
-```
+Confirm the process is killed (```ps aux | grep sleep``` should return nothing).
+
 Take note of system uptime, memory, and CPU usage.
