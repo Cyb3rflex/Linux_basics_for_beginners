@@ -6,26 +6,33 @@ Practice basic networking commands.
 ## Tasks
 1. Display your IP address:
    ```bash
-   ip addr show```
+   ip addr show
+   ```
 
 2. Ping bing.com 5 times:
 
-```ping -c 5 bing.com```
-
+```bash 
+ping -c 5 bing.com
+```
 
 3. Show all listening ports:
 
-```ss -tuln```
+```bash
+ss -tuln
+```
 
 
 4. Use curl to fetch the homepage of example.com:
 
-```curl example.com -o site.html```
-
+```bash
+curl example.com -o site.html
+```
 
 5. Show the first 10 lines of site.html:
 
-```head site.html```
+```bash
+head site.html
+```
 
 ---
 
